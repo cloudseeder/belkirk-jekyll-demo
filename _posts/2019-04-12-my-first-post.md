@@ -11,8 +11,3 @@ related_posts: []
 # First
 
 This is just a simple first post.
-
-    One of those code bloks
-    get()
-    find()
-    replace()
