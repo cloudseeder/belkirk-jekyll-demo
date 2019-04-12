@@ -10,4 +10,4 @@ related_posts: []
 ---
 # First
 
-This is just a simple first post.
+This is just a simple first post. Interesting.
